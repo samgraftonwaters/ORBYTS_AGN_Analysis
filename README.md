@@ -3,7 +3,7 @@ Python scripts to analyse X-ray spectra of nine different active galactic nuclei
 
 This code can be used to study the soft X-rays spectra of any AGN, provided the correct data is obtained. The data used in this work was reflection grating spectrometer data collected by XMM-Newton. 
 
-**To cite these codes, use DOI: 10.5281/zenodo.5116838 @ https://zenodo.org/record/5116838**
+**To cite these codes, use DOI: 10.5281/zenodo.7093909 @ https://zenodo.org/record/7093909**
 
 A description of each script is detailed below, under the name of the file.
 
