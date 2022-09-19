@@ -7,7 +7,6 @@ import glob
 from matplotlib.pyplot import cm
 from matplotlib.cm import get_cmap
 import scipy.stats as ss
-from statsmodels.stats.weightstats import ztest as ztest
 
 All_Vel = open(f'/Path/to/your/directory/Wave_Vel_Table.txt') #Open the file
 
